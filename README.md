@@ -2,3 +2,5 @@
 
 
 
+
+<a href='https://learn.co/lessons/hs-ruby1-unit1-deck' data-visibility='hidden'>View this lesson on Learn.co</a>
